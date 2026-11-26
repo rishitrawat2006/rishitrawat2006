@@ -44,8 +44,8 @@
 ###
 
 
-### Reach Me
-**GitHub:** [@rishitrawat2006](https://github.com/rishitrawat2006)  
+### reach me
+**github:** [@rishitrawat2006](https://github.com/rishitrawat2006)  
 **LinkedIn:** [linkedin.com/in/rishitrawat](https://www.linkedin.com/in/rishitrawat/)  
 **Email:** [rawatrishit2029@gmail.com](mailto:rawatrishit2029@gmail.com)  
 **LeetCode:** [leetcode.com/u/rishitrawat](https://leetcode.com/u/rishitrawat/)
