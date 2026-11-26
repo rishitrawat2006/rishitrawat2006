@@ -15,19 +15,23 @@
 ###
 
 <div align="left">
-    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="python badge" />
-    <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white" alt="c badge" />
-    <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" alt="cplusplus badge" />
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="javascript badge" />
-    <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white" alt="sql badge" />
-    <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" alt="fastapi badge" />
-    <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="postgresql badge" />
-    <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="docker badge" />
-    <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" alt="linux badge" />
-    <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="git badge" />
-    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="github badge" />
-    <img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white" alt="arduino badge" />
-    <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" alt="vscode badge" />
+    <!-- Languages -->
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white" alt="C" />
+
+<!-- Backend -->
+<img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white" alt="Redis" />
+
+<!-- Cloud & DevOps -->
+<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions" />
       
 </div>
 
