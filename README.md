@@ -14,6 +14,19 @@
 
 ###
 
+<h3 align="left">languages/tools i use</h3>
+
+###
+
+<div align="left">
+    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="python badge" />
+    <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white" alt="c badge" />
+    <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" alt="cplusplus badge" />
+  
+</div>
+
+###
+
 
 ###
 
@@ -22,9 +35,6 @@
 **LinkedIn:**
 
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,java,cpp,js,ts,react,nextjs,flutter,nodejs,html,css,tailwind,tensorflow,pytorch,sklearn,opencv,docker,kubernetes,aws,gcp,postgres,mongodb,mysql,fastapi,flask,redis,git,github,linux,vscode,selenium&theme=light" />
-</div>
 
 ---
 ## Recent Contributions
