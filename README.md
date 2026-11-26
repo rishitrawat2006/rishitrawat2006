@@ -6,8 +6,9 @@
 
 ###
 
-<p align="left">i'm an electrical engineering undergrad @ mnit jaipur. 
-currently exploring how scalable systems work under the hood
+<p align="left">
+  i'm an electrical engineering undergrad @ mnit jaipur.<br>
+  currently exploring backend systems, cloud infrastructure & open source.
 </p>
 
 ###
