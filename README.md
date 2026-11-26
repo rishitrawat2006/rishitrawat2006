@@ -30,7 +30,7 @@
 
 ### Reach Me
 **GitHub:**
-**LinkedIn:** [linkedin.com/in/evanimenon](https://linkedin.com/in/evanimenon/)  
+**LinkedIn:**
 
 
 <div align="center">
