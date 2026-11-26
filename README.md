@@ -1,17 +1,36 @@
+<h1 align="center">hey there :)</h1>
 
+###
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
-       width="80%" 
-       style="border: 2px solid #ccc; border-radius: 10px;" 
-       alt="Anurag Raut Banner"/>
+<h3 align="left">about me</h3>
+
+###
+
+<p align="left">i'm an electrical engineering undergrad @ mnit jaipur </p>
+
+###
+
+<h3 align="left">languages/tools i use</h3>
+
+###
+
+<div align="left">
+    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="python badge" />
+    <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white" alt="c badge" />
+    <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" alt="cplusplus badge" />
+    <img src="https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white" alt="matlab badge" />
+    <img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white" alt="arduino badge" />
+<!--     <img src="https://img.shields.io/badge/-MAGIC-orange" alt="magic badge" /> -->
+<!--     <img src="https://img.shields.io/badge/-NGSPICE-blue" alt="ngspice badge" /> -->
+<!--     <img src="https://img.shields.io/badge/-Verilog-red" alt="verilog badge" /> -->
+    <img src="https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=white" alt="ros2 badge" />
 </div>
 
-</div>
+###
 
-<br/>
-
----
+### Reach Me
+**GitHub:**
+**LinkedIn:** [linkedin.com/in/evanimenon](https://linkedin.com/in/evanimenon/)  
 
 
 <div align="center">
@@ -44,12 +63,6 @@ Apparently, reading thousands of lines of unfamiliar code is a hobby now. Might 
 - [#70776](https://github.com/ceph/ceph/pull/70776): Prevent telemetry from being unintentionally re-enabled
 - [#70564](https://github.com/ceph/ceph/pull/70564): Show Submit button during initial telemetry configuration
 
-### [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista)
-- [#2390](https://github.com/apache/datafusion-ballista/pull/2390): fix(ci): Resolve `datafusion.proto` from `datafusion-proto-models` 
-
-### [floci-io/floci-gcp](https://github.com/floci-io/floci-gcp)
-- [#193](https://github.com/floci-io/floci-gcp/pull/193): fix(pubsub): deliver messages to push subscriptions
----
 
 
 
