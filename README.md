@@ -6,7 +6,8 @@
 
 ###
 
-<p align="left">i'm an electrical engineering undergrad @ mnit jaipur </p>
+<p align="left">i'm an electrical engineering undergrad @ mnit jaipur 
+currently exploring how scalable systems work under the hood   </p>
 
 ###
 
